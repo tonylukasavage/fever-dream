@@ -1,0 +1,22 @@
+{
+  "name": "fever-dream",
+  "version": "0.0.1",
+  "description": "Procedurally generated Celeste maps using lucid-dream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Celeste",
+    "lucid-dream"
+  ],
+  "author": "Tony Lukasavage",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "seedrandom": "^3.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  }
+}
