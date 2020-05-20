@@ -1,5 +1,7 @@
 # fever-dream
 
+> **DISCLAIMER:** This is totally useless right now as I'm still in early experimental stages.
+
 Procedurally generated Celeste maps using [lucid-dream](https://github.com/tonylukasavage/lucid-dream)
 
 ## Requirements
