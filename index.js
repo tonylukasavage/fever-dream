@@ -13,9 +13,10 @@ const binFile = 'fever-dream.bin';
 		const side = new Side();
 		const { map } = side;
 
-		// generate the rooms
+		// generate the room structure
 		map.rooms = rooms.generateRooms();
 		rooms.generateTiles(map.rooms);
+
 		map.rooms[0].entities.push(new Entity.Player({
 			x: 160,
 			y: 50
